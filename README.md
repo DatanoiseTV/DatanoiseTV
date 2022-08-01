@@ -4,7 +4,7 @@ My name is Sylwester, I live in Berlin and I like to tinker around with embedded
 
 Some of the technologies I've been workin on include FreeRTOS, ChibiOS, Buildroot, Zephyr, ESP32 MCUs, AVR MCUs, RP2040, ARM Cortex M0+ and M4 MCUs, MIDI, CAN Bus, RS485, ProtoBuf, MQTT, LoRA, low-power battery powered gadgets, and many more..
 
-## 🔭 I’m currently working on:
+## 🔭 I’m currently working on
 * PicoDSP, a RP2040 powered Audio DSP core
 * P2040 powered low-power sensor board with 2.4GHz ISM Radio Transceiver
 * A USB LVGL Driver for Ableton Push, Push 2, Native Instruments maschine series
