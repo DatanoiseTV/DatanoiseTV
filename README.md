@@ -7,5 +7,5 @@ Some of the technologies I've been workin on include FreeRTOS, ChibiOS, Buildroo
 ## 🔭 I’m currently working on
 * XLink, a *secret* MIDI and Eurorack synth tool :eyes:
 * PicoDSP, a RP2040 powered Audio DSP core
-* P2040 powered low-power sensor board with 2.4GHz ISM Radio Transceiver
+* RP2040 powered low-power sensor / actor board with 2.4GHz ISM Radio Transceiver
 * A USB LVGL Driver for Ableton Push, Push 2, Native Instruments maschine series
