@@ -5,7 +5,7 @@ My name is Sylwester, I live in Berlin and I like to tinker around with embedded
 Some of the technologies I've been workin on include FreeRTOS, ChibiOS, Buildroot, Zephyr, ESP32 MCUs, AVR MCUs, RP2040, ARM Cortex M0+ and M4 MCUs, MIDI, CAN Bus, RS485, ProtoBuf, MQTT, LoRA, low-power battery powered gadgets, and many more..
 
 ## 🔭 I’m currently working on
-* XLink, a *secret* MIDI and Eurorack synth tool :eyes:
-* [PicoADK](https://github.com/DatanoiseTV/PicoADK-Hardware), a RP2040 powered Audio DSP core
-* RP2040 powered low-power sensor / actor board with 2.4GHz ISM Radio Transceiver
-* A USB LVGL Driver for Ableton Push, Push 2, Native Instruments maschine series
+* XLink, a *secret* MIDI and Eurorack synth tool :eyes: (done)
+* [PicoADK](https://github.com/DatanoiseTV/PicoADK-Hardware), a RP2040 powered Audio DSP core (done)
+* RP2040 powered low-power sensor / actor board with 2.4GHz ISM Radio Transceiver (done)
+* A USB LVGL Driver for Ableton Push, Push 2, Native Instruments maschine series (done)
