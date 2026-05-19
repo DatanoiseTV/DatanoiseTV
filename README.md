@@ -4,4 +4,4 @@ My name is Sylwester, I live in Berlin and I like to tinker around with embedded
 
 # Disclaimer
 
-This repository is a privately-owned repository and not related to the Company Datanoise.
+This repository is a privately-owned repository and not related to the Company Datanoise or any other companies.
